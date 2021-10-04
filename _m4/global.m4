@@ -25,15 +25,15 @@ m4_define(`__PAGE_STYLE',`bgcolor="#FFFFFF" text="#000000" link="#777777" alink=
 m4_define(`__CONTENT_STYLE',`bgcolor="#EEEFF0" background="../img/bg1.gif"')m4_dnl
 
 m4_define(`__DIV_TOP',`
-  <tr><td bgcolor="#555555"><img src="spc.gif" width="1" height="1" alt=""></td></tr>
-  <tr><td bgcolor="#000000"><img src="spc.gif" width="1" height="1" alt=""></td></tr>
-  <tr><td bgcolor="#446677"><img src="spc.gif" width="1" height="1" alt=""></td></tr>
+  <tr><td bgcolor="#555555"><img src="/spc.gif" width="1" height="1" alt=""></td></tr>
+  <tr><td bgcolor="#000000"><img src="/spc.gif" width="1" height="1" alt=""></td></tr>
+  <tr><td bgcolor="#446677"><img src="/spc.gif" width="1" height="1" alt=""></td></tr>
 ')m4_dnl
 
 m4_define(`__DIV_BOTTOM',`
-  <tr><td bgcolor="#446677"><img src="spc.gif" width="1" height="1" alt=""></td></tr>
-  <tr><td bgcolor="#000000"><img src="spc.gif" width="1" height="1" alt=""></td></tr>
-  <tr><td bgcolor="#777777"><img src="spc.gif" width="1" height="1" alt=""></td></tr>
+  <tr><td bgcolor="#446677"><img src="/spc.gif" width="1" height="1" alt=""></td></tr>
+  <tr><td bgcolor="#000000"><img src="/spc.gif" width="1" height="1" alt=""></td></tr>
+  <tr><td bgcolor="#777777"><img src="/spc.gif" width="1" height="1" alt=""></td></tr>
 ')m4_dnl
 
 m4_define(`__SECTION_STYLE_BEG',`

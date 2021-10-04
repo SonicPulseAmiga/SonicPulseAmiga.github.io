@@ -15,7 +15,7 @@ m4_define(`__NAVBAR',`
 		<tr>
 		  <td>
 			<table border="0" width="100%" cellspacing="0" cellpadding="0">
-			  <tr><td><img src="spc.gif" width="1" height="2" alt=""></td></tr>
+			  <tr><td><img src="/spc.gif" width="1" height="2" alt=""></td></tr>
 			</table>
 		  </td>
 		</tr>
@@ -31,14 +31,14 @@ m4_define(`__NAVBAR',`
 			  <tr>
           <td align="right" valign="bottom" height="3">
 				  <table border="0" width="575" height="3" cellspacing="0" cellpadding="0">
-  <tr><td rowspan="3" width="75"><img src="../img/navbarfadediv.gif" width="75" height="3" alt=""></td><td bgcolor="#777777"><img src="spc.gif" width="1" height="1" alt=""></td></tr>
-  <tr><td bgcolor="#000000"><img src="spc.gif" width="1" height="1" alt=""></td></tr>
-  <tr><td bgcolor="#777777"><img src="spc.gif" width="1" height="1" alt=""></td></tr>
+  <tr><td rowspan="3" width="75"><img src="../img/navbarfadediv.gif" width="75" height="3" alt=""></td><td bgcolor="#777777"><img src="/spc.gif" width="1" height="1" alt=""></td></tr>
+  <tr><td bgcolor="#000000"><img src="/spc.gif" width="1" height="1" alt=""></td></tr>
+  <tr><td bgcolor="#777777"><img src="/spc.gif" width="1" height="1" alt=""></td></tr>
                   </table>
                 </td>
               </tr>
 			  <tr>
-				<td height="20" align="right" valign="bottom"><nobr><img src="../img/navbarfade.gif" alt="">__NAVBUTTON_NEWS($1)__NAVBUTTON_PRODUCT($1)__NAVBUTTON_ABOUT($1)<a href="m4tohtml(../ger/remlang(__NODE))"><img src="../_img/lang0.gif" border="0" alt="de"></a><a href="m4tohtml(../eng/remlang(__NODE))"><img src="../_img/lang1.gif" border="0" alt="en"></a></nobr></td>
+				<td height="20" align="right" valign="bottom"><nobr><img src="../img/navbarfade.gif" alt="">__NAVBUTTON_NEWS($1)__NAVBUTTON_PRODUCT($1)__NAVBUTTON_ABOUT($1)<a href="m4tohtml(../ger/remlang(__NODE))"><img src="/img/lang0.gif" border="0" alt="de"></a><a href="m4tohtml(../eng/remlang(__NODE))"><img src="/img/lang1.gif" border="0" alt="en"></a></nobr></td>
 			  </tr>
 			</table>
 		  </td>
