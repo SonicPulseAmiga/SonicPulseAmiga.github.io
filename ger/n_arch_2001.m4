@@ -38,32 +38,32 @@ __DOCTYPE
 							</td>
 							<td valign="top"><!-- Contents -->
 								__SECTION_STYLE_BEG("600",<b>SonicPulse : Frohe Weihnachten und ein erfolgreiches neues Jahr</b> (21.Dec.2001))
-									<img src="../_img/home.gif" align="left"> Ich w&uuml;nsche uns und dem AMIGA ein erfolgreiches Jahr 2002.
+									<img src="../img/home.gif" align="left"> Ich w&uuml;nsche uns und dem AMIGA ein erfolgreiches Jahr 2002.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : was ist fertig bzw. in Arbeit f&uuml;r Version 4.2</b> (13.Dec.2001))
-									<img src="../_img/note.gif" align="left"> Ich habe die &Auml;nderungen am saver API fertig, so dass man nun auch Bereiche speichern kann. Jetzt werde ich noch die Saver anpassen.
+									<img src="../img/note.gif" align="left"> Ich habe die &Auml;nderungen am saver API fertig, so dass man nun auch Bereiche speichern kann. Jetzt werde ich noch die Saver anpassen.
 									Au&szlig;erdem habe ich ein paar neue Men&uuml;punkte eingebaut (Hilfe Men&uuml;).
 									Nat&uuml;rlich mussten auch ein paar Bugs dran glauben und mit der Doku gehts auch voran (FAQ is fast fertig).
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : Dokumentation aktualisiert</b> (22.Nov.2001))
-									<img src="../_img/download.gif" align="left"> Ich habe die html-Dokumentation erweitert und Fehler-bereinigt.
+									<img src="../img/download.gif" align="left"> Ich habe die html-Dokumentation erweitert und Fehler-bereinigt.
 									Au&szlig;erdem ist das Entwicklerpacket auf die kommende Version 4.2 vorbereitet.
 									Auf der <a href="p_sfx_download.html">Download-Seite</a> gibts die neuen Archive.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : was ist fertig bzw. in Arbeit f&uuml;r Version 4.2</b> (17.Oct.2001))
-									<img src="../_img/note.gif" align="left"> Es gab schon lange keine Infos mehr, also will ich das mal nachholen. Derzeit schreibe ich eine Menge Code um und behebe Fehler.
+									<img src="../img/note.gif" align="left"> Es gab schon lange keine Infos mehr, also will ich das mal nachholen. Derzeit schreibe ich eine Menge Code um und behebe Fehler.
 									Ohne dies w&auml;hre eine Version 5 undenkbar. Ein paar neue Features wird es nat&uuml;rlich auch geben.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SonicPulse : Ikons f&uuml;r die Neuigkeiten</b> (17.May.2001))
-									<img src="../_img/home.gif" align="left"> Jetzt bringen Kategorie-Ikons ein bischen Farbe auf die Seiten.
+									<img src="../img/home.gif" align="left"> Jetzt bringen Kategorie-Ikons ein bischen Farbe auf die Seiten.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : Version 4.1 ist jetzt drau&szlig;en</b> (10.May.2001))
-									<img src="../_img/download.gif" align="left"> Endlich ist das Update von <a href="p_sfx.html">SoundFX</a> zum <a href="p_sfx_download.html">herunterladen</a> verfügbar. Was gibts also Neues ?
+									<img src="../img/download.gif" align="left"> Endlich ist das Update von <a href="p_sfx.html">SoundFX</a> zum <a href="p_sfx_download.html">herunterladen</a> verfügbar. Was gibts also Neues ?
 									<li>neues Design in (fast) allen Fenstern</li>
 									<li>viele Dialoge aufgeräumt</li>
 									<li>kleine Verbesserungen in einigen FX (z.B. AnalyseSpect2D) und ein neur FX (Distorsion)</li>
@@ -73,16 +73,16 @@ __DOCTYPE
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : Version 4.1 wird mit der Repulse Soundkarte ausgeliefert</b> (06.Apr.2001))
-									<img src="../_img/note.gif" align="left"> <a href="http://www.aliendesign-gbr.de" target="new">AlienDesign</a> hat <a href="p_sfx.html">SoundFX</a>
+									<img src="../img/note.gif" align="left"> <a href="http://www.aliendesign-gbr.de" target="new">AlienDesign</a> hat <a href="p_sfx.html">SoundFX</a>
 									für Ihre brand-neue Soundkarte Repulse ausgewählt.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SonicPulse : Design umgefärbt und verbessert</b> (29.Mar.2001))
-									<img src="../_img/home.gif" align="left"> Jetzt sind die Seiten nicht mehr so babyblau. Außerdem wird in der oberen Navigation angezeigt, wo man ist.
+									<img src="../img/home.gif" align="left"> Jetzt sind die Seiten nicht mehr so babyblau. Außerdem wird in der oberen Navigation angezeigt, wo man ist.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : Registrationsformular ist online</b> (28.Mar.2001))
-									<img src="../_img/page.gif" align="left"> Für SoundFX können sich sich jetzt <a href="p_sfx_register.html">online</a> registrieren.
+									<img src="../img/page.gif" align="left"> Für SoundFX können sich sich jetzt <a href="p_sfx_register.html">online</a> registrieren.
 								__SECTION_STYLE_END
 							</td>
 						</tr>

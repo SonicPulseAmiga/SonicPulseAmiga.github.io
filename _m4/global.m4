@@ -22,7 +22,7 @@ m4_dnl -- style definitions ----------------------------------------------------
 m4_dnl m4_define(`__PAGE_STYLE',`bgcolor="#FFFFFF" text="#000000" link="#777777" alink="#FFFFFF" vlink="#777777" marginwidth="0" marginheight="0" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0"')m4_dnl
 m4_define(`__PAGE_STYLE',`bgcolor="#FFFFFF" text="#000000" link="#777777" alink="#FFFFFF" vlink="#777777"')m4_dnl
 
-m4_define(`__CONTENT_STYLE',`bgcolor="#EEEFF0" background="../_img/bg1.gif"')m4_dnl
+m4_define(`__CONTENT_STYLE',`bgcolor="#EEEFF0" background="../img/bg1.gif"')m4_dnl
 
 m4_define(`__DIV_TOP',`
   <tr><td bgcolor="#555555"><img src="spc.gif" width="1" height="1" alt=""></td></tr>
@@ -42,7 +42,7 @@ m4_define(`__SECTION_STYLE_BEG',`
 	  <td bgcolor=__COL_SEC_BORDER>
 		<table border="0" cellspacing="1" cellpadding="2" width=$1>
 		  <tr>
-			<td bgcolor="#1050A0" background="../_img/gradient.gif">
+			<td bgcolor="#1050A0" background="../img/gradient.gif">
 			  <font color="#FFFFFF" face="Arial,Helvetica" size="-1">
 				$2
 			  </font>
@@ -59,10 +59,10 @@ m4_define(`__SECTION_STYLE_END',`
 		  </tr>
         </table>
       </td>
-	  <td bgcolor=__COL_SEC_SHADOW width="3" valign="top"><img src="../_img/shr.gif" width="3" alt=""></td>
+	  <td bgcolor=__COL_SEC_SHADOW width="3" valign="top"><img src="../img/shr.gif" width="3" alt=""></td>
     </tr>
 	<tr>
-      <td bgcolor=__COL_SEC_SHADOW colspan="2" height="3" valign="left"><img src="../_img/shb.gif" height="3" alt=""></td>
+      <td bgcolor=__COL_SEC_SHADOW colspan="2" height="3" valign="left"><img src="../img/shb.gif" height="3" alt=""></td>
     </tr>
     </tr>
   </table>
@@ -74,7 +74,7 @@ m4_define(`__SECTION_STYLE_BEG2',`
 	  <td bgcolor=__COL_SEC_BORDER>
 		<table border="0" cellspacing="0" cellpadding="1" width=$1>
 		  <tr>
-			<td bgcolor="#1050A0" background="../_img/gradient.gif">
+			<td bgcolor="#1050A0" background="../img/gradient.gif">
 			  <font color="#FFFFFF" face="Arial,Helvetica" size="-1">
 				&nbsp;$2&nbsp;
 			  </font>
@@ -102,8 +102,8 @@ m4_define(`__SECTION_HEADER',`
 				<b>$1</b>
 			</td>
 			<td align="right">
-				<a href="format(`#%03d',decr(decr(__SECTION)))"><img src="../_img/a_up.png" width="13" height="13" border="0"></a><img src="../_img/space.gif" width="2" alt="up">
-				<a href="format(`#%03d',__SECTION)"><img src="../_img/a_do.png" width="13" height="13" border="0" alt="down"></a>
+				<a href="format(`#%03d',decr(decr(__SECTION)))"><img src="../img/a_up.png" width="13" height="13" border="0"></a><img src="../_img/space.gif" width="2" alt="up">
+				<a href="format(`#%03d',__SECTION)"><img src="../img/a_do.png" width="13" height="13" border="0" alt="down"></a>
 			</td>
 		</tr></table>
 	</td></tr>
@@ -126,11 +126,11 @@ m4_define(`__AMINET_BINARIES',`http://www.aminet.net')m4_dnl
 
 m4_dnl -- image shortcuts ------------------------------------------------------
 
-m4_define(`__PROGBAR1',`<img src="../_img/progbar0.gif" width="1" height="10" alt=""><img src="../_img/progbar1.gif" width=$1 height="10" alt=""><img src="../_img/progbar2.gif" width="1" height="10" alt="">')m4_dnl
-m4_define(`__PROGBAR2',`<img src="../_img/progbar0.gif" width="1" height="10" alt=""><img src="../_img/progbar1.gif" width=$1 height="10" alt=""><img src="../_img/progbar3.gif" width=$2 height="10" alt=""><img src="../_img/progbar2.gif" width="1" height="10" alt="">')m4_dnl
-m4_define(`__PROGBAR3',`<img src="../_img/progbar0.gif" width="1" height="10" alt=""><img src="../_img/progbar3.gif" width=$1 height="10" alt=""><img src="../_img/progbar2.gif" width="1" height="10" alt="">')m4_dnl
+m4_define(`__PROGBAR1',`<img src="../img/progbar0.gif" width="1" height="10" alt=""><img src="../_img/progbar1.gif" width=$1 height="10" alt=""><img src="../_img/progbar2.gif" width="1" height="10" alt="">')m4_dnl
+m4_define(`__PROGBAR2',`<img src="../img/progbar0.gif" width="1" height="10" alt=""><img src="../_img/progbar1.gif" width=$1 height="10" alt=""><img src="../_img/progbar3.gif" width=$2 height="10" alt=""><img src="../_img/progbar2.gif" width="1" height="10" alt="">')m4_dnl
+m4_define(`__PROGBAR3',`<img src="../img/progbar0.gif" width="1" height="10" alt=""><img src="../_img/progbar3.gif" width=$1 height="10" alt=""><img src="../_img/progbar2.gif" width="1" height="10" alt="">')m4_dnl
 
-m4_define(`__SYS_AMIGA',`<img src="../_img/icoSysAmiga.gif" width="16" height="16" align="center" alt="AmigaOS">')m4_dnl
+m4_define(`__SYS_AMIGA',`<img src="../img/icoSysAmiga.gif" width="16" height="16" align="center" alt="AmigaOS">')m4_dnl
 
 m4_dnl -- subroutines ----------------------------------------------------------
 

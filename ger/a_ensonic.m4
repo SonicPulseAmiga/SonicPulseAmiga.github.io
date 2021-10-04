@@ -35,7 +35,7 @@ __DOCTYPE
 								__SECTION_STYLE_BEG("600",`<b>Ensonic, that''`s me!</b>')
 									<table border="0">
 										<tr>
-											<td><img src="../_img/me2.jpg"></td>
+											<td><img src="../img/me2.jpg"></td>
 											<td valign="top"><font face="Arial,Helvetica">
 												Meinen Spitzname <b>Ensonic</b> verdanke ich wohl zwei Dingen. Erstens mache ich
 												aktiv Musik (Darkwave, Electro - aktuelles Projekt hei&szlig;t &quot;[ekso:r].&quot; (sprich : EKSOR), siehe <a href="http://www.eksor.de" target="new">www.eksor.de</a>) -

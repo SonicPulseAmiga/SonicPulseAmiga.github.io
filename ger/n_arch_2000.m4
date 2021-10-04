@@ -38,22 +38,22 @@ __DOCTYPE
 							</td>
 							<td valign="top"><!-- Contents -->
 								__SECTION_STYLE_BEG("600",<b>SonicPulse : neue Produktseiten sind Online</b> (27.Dec.2000))
-									<img src="../_img/page.gif" align="left"> Langsam werden die Seiten komplett.
+									<img src="../img/page.gif" align="left"> Langsam werden die Seiten komplett.
 									Die Produktseiten für <a href="p_ap.html">Resor</a> und <a href="p_hs.html">HiScan</a> sind jetzt Online.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : 1. Beta der Version 4.1</b> (01.Dec.2000))
-									<img src="../_img/download.gif" align="left"> Die erste Beta von SoundFX 4.1 ist im Umlauf.
+									<img src="../img/download.gif" align="left"> Die erste Beta von SoundFX 4.1 ist im Umlauf.
 									Bis zur fertigen Version wird es allerdings wohl noch etwas dauern.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SonicPulse : neue Produktseiten sind Online</b> (21.Nov.2000))
-									<img src="../_img/page.gif" align="left"> Ich habe einige Verbesserungen an den Seiten durchgeführt, einen <a href="p_sfx_pics.html">Screenshot</a>
+									<img src="../img/page.gif" align="left"> Ich habe einige Verbesserungen an den Seiten durchgeführt, einen <a href="p_sfx_pics.html">Screenshot</a>
                   von SoundFX 4.1 und die Produktseiten für <a href="p_ap.html">AmiPanel</a> erstellt.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : was ist fertig bzw. in Arbeit f&uuml;r Version 4.1 ?</b> (02.Okt.2000))
-									<img src="../_img/note.gif" align="left"> 
+									<img src="../img/note.gif" align="left"> 
 									<li>der MPEG-Saver wurde total überarbeitet (eigene Presets)</li>
 									<li>Enrico Meyer hat die aktuelle Version des LAME-Encoders ohne libSoundFile kompiliert, so da&szlig; er nun mit SoundFX funktioniert</li>
 									<li>ich habe die erste CD in einem Rutsch mit dem Batchprozessor als mp3s encoded</li>
@@ -62,7 +62,7 @@ __DOCTYPE
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : 4.1 Preview auf dem BAUD Treffen</b> (08.Sep.2000))
-									<img src="../_img/note.gif" align="left"> 
+									<img src="../img/note.gif" align="left"> 
 									<li>SoundFX 4.1 Preview wird exklusiv auf dem <a href="http://www.baud.de/hwmeeting.html" target="new">BAUD-Treffen</a> in Bielefeld vorgestellt.</li>
 									<li>Verbesserung an der Benutzerführung</li>
 									<li>Batchprozessor</li>

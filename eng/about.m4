@@ -41,7 +41,7 @@ __DOCTYPE
 									<table border="0">
 										<tr>
 											<td>
-												<a href="http://www.amiga-news.de/indexe.shtml" target="_new"><img src="../_img/amiga-news.jpg" border="0" width="87" height="30" alt="amiga-news.de homepage"></a>
+												<a href="http://www.amiga-news.de/indexe.shtml" target="_new"><img src="../img/amiga-news.jpg" border="0" width="87" height="30" alt="amiga-news.de homepage"></a>
 											</td>
 											<td><font face="Arial,Helvetica">
 												For news about the <b>Amiga</b> in general, I recomend visiting the

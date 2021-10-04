@@ -38,22 +38,22 @@ __DOCTYPE
 							</td>
 							<td valign="top"><!-- Contents -->
 								__SECTION_STYLE_BEG("600",<b>SonicPulse : new product pages are online</b> (27.Dec.2000))
-									<img src="../_img/page.gif" align="left"> Slowly the site gets more and more complete.
+									<img src="../img/page.gif" align="left"> Slowly the site gets more and more complete.
 									The product-pages for <a href="p_res.html">Resor</a> and <a href="p_hs.html">HiScan</a> are now online.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : 1. Beta of version 4.1</b> (01.Dec.2000))
-									<img src="../_img/download.gif" align="left"> The first beta of SoundFX 4.1 has been distributed.
+									<img src="../img/download.gif" align="left"> The first beta of SoundFX 4.1 has been distributed.
 									Though it will take a while until it is fully ready.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SonicPulse : new product pages are online</b> (21.Nov.2000))
-									<img src="../_img/page.gif" align="left"> I fixed a few things here and there, added a <a href="p_sfx_pics.html">screenshot</a>
+									<img src="../img/page.gif" align="left"> I fixed a few things here and there, added a <a href="p_sfx_pics.html">screenshot</a>
 									for SoundFX 4.1 and wrote the product-pages for <a href="p_ap.html">AmiPanel</a>.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : what things are done or in development for version 4.1 ?</b> (02.Okt.2000))
-									<img src="../_img/note.gif" align="left"> 
+									<img src="../img/note.gif" align="left"> 
 									<li>totaly reworked MPEG-saver (own presets)</li>
 									<li>Enrico Meyer has recompiled the current release of the LAME-encoder without libSoundFile, so that it now works with SoundFX</li>
 									<li>I have succesfully encoded my first CD as mp3s in one go with batchprocessor</li>
@@ -62,7 +62,7 @@ __DOCTYPE
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : 4.1 Preview at BAUD Meeting</b> (08.Sep.2000))
-									<img src="../_img/note.gif" align="left"> 
+									<img src="../img/note.gif" align="left"> 
 									<li>SoundFX 4.1 preview can be seen exclusively at the <a href="http://www.baud.de/hwmeeting.html" target="new">BAUD-Meeting</a> in Bielefeld.</li>
 									<li>Improvments of usabillity</li>
 									<li>batch processor</li>

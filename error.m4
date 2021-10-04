@@ -22,7 +22,7 @@ __DOCTYPE
 			<!-- Logo -->
 			<tr align="center" valign="middle">
 				<td>
-					<img src="_img/sp-logo2-big.gif">
+					<img src="img/sp-logo2-big.gif">
 	  			</td>
 			</tr>
 			<!-- Language -->
@@ -31,11 +31,11 @@ __DOCTYPE
 					<table border="0">
 						<tr>
 			  				<td align="center">
-								<a href="ger/news.html"><img src="_img/flag_ger.gif" border="0"></a><br>
+								<a href="ger/news.html"><img src="img/flag_ger.gif" border="0"></a><br>
 								<a href="ger/news.html">deutsch</a>
 							</td>
 						  	<td align="center">
-								<a href="eng/news.html"><img src="_img/flag_eng.gif" border="0"></a><br>
+								<a href="eng/news.html"><img src="img/flag_eng.gif" border="0"></a><br>
 								<a href="eng/news.html">english</a>
 			 				</td>
 						</tr>

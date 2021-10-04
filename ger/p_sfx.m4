@@ -95,7 +95,7 @@ __DOCTYPE
 											<li>spielt in 8bit,14bit and 14bit-calibrated über den Standart Paula-Chip ab,
 												Player brauchen maximal 4kByte Chipmemory
 											<li>AHI-player (für Soundkartenbesitzer)
-												<A HREF="http://www.lysator.liu.se/~lcs/ahi.html" TARGET="_blank"><IMG SRC="../_img/icoAHI.jpg" BORDER=0 ALIGN=ABSMIDDLE WIDTH=65 HEIGHT=24 ALT="[AHI compatible]"></A>
+												<A HREF="http://www.lysator.liu.se/~lcs/ahi.html" TARGET="_blank"><IMG SRC="../img/icoAHI.jpg" BORDER=0 ALIGN=ABSMIDDLE WIDTH=65 HEIGHT=24 ALT="[AHI compatible]"></A>
 											</li>
 											<li>unbegrenztes Vergrö&szlig;ern und Verkleinern in X und Y Richtung
 											<li>X und Y Lineale im Samplefenster

@@ -38,47 +38,47 @@ __DOCTYPE
 							</td>
 							<td valign="top"><!-- Contents -->
 								__SECTION_STYLE_BEG("600",<b>SonicPulse : Merry Christmas and a Happy New Year</b> (23.Dec.2002))
-									<img src="../_img/home.gif" align="left"> I wish a succesful new year 2003 to us and the AMIGA.
+									<img src="../img/home.gif" align="left"> I wish a succesful new year 2003 to us and the AMIGA.
 									Keep the system going!
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : Version 4.2 is out now</b> (26.Sep.2002))
-									<img src="../_img/download.gif" align="left"> As more urgent problems have been found,
+									<img src="../img/download.gif" align="left"> As more urgent problems have been found,
 									I released another update.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : Interview</b> (21.Aug.2002))
-									<img src="../_img/page.gif" align="left"> On the web-site of the
+									<img src="../img/page.gif" align="left"> On the web-site of the
 									<a href="http://www.amigafuture.de" target="_new">Amiga Future</a> you can read a (german)
 									<a href="http://www.amigafuture.de/interactive/interview/stefankost.php" target="_new">interview with me</a>.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : Version 4.2 is out now</b> (19.Aug.2002))
-									<img src="../_img/download.gif" align="left"> Like promissed, I released an update.
+									<img src="../img/download.gif" align="left"> Like promissed, I released an update.
 									This should fix the remaining problems.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : Version 4.2 is out now</b> (06.Aug.2002))
-									<img src="../_img/download.gif" align="left"> Finally, I have made it! It has been more that a
+									<img src="../img/download.gif" align="left"> Finally, I have made it! It has been more that a
 									year since the last release, so expect many fixes and changes. In the next days I
 									will update the archives several times, as new translations come in.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : Interview</b> (06.May.2002))
-									<img src="../_img/page.gif" align="left"> On the web-site of the
+									<img src="../img/page.gif" align="left"> On the web-site of the
 									<a href="http://online-club.de/~ARENA" target="_new">Amiga-Arena</a> you can read a (german)
 									<a href="http://online-club.de/~ARENA/StefanKo_DE.txt" target="_new">interview with me</a>.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SoundFX : what things are done or in development for Version 4.2</b> (15.Feb.2002))
-									<img src="../_img/note.gif" align="left"> Thanks to many post to the mailinglist, I was able to fix lots
+									<img src="../img/note.gif" align="left"> Thanks to many post to the mailinglist, I was able to fix lots
 									of bugs and to fulfill wishes. The beta-version 3 will soon be relased.<br>
 									As a new feature I have installed a bug/feature-request/support <a href="../phpbt/index.php" target="new">tracker</a>.
 									Please use this one from now on for such requests.
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__SECTION_STYLE_BEG("600",<b>SonicPulse : another site update</b> (11.Jan.2002))
-									<img src="../_img/home.gif" align="left"> Product entries now have a platform icon (AmigaOS, Linux).
+									<img src="../img/home.gif" align="left"> Product entries now have a platform icon (AmigaOS, Linux).
                   Don&#39;t be afraid - I have not left the AMIGA.<br>
 									Further I finally made a preview of AmiPanel available.
 								__SECTION_STYLE_END
