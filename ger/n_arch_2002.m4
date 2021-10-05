@@ -6,7 +6,6 @@ m4_include(`header.m4')
 m4_include(`footer.m4')
 m4_include(`navbar.m4')
 m4_include(`versions.m4')
-m4_include(`info.m4')
 m4_divert`'m4_dnl
 __DOCTYPE
 <html lang="de">
@@ -33,8 +32,6 @@ __DOCTYPE
 								__SECTION_STYLE_END
 								__SECTION_SPACER
 								__VERSION_WATCH
-								__SECTION_SPACER
-								__INFO_BOX
 							</td>
 							<td valign="top"><!-- Contents -->
 								__SECTION_STYLE_BEG("600",<b>SonicPulse : Frohe Weihnachten und ein Glückliches Neues Jahr</b> (23.Dec.2002))
