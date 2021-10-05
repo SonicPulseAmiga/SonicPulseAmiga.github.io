@@ -36,8 +36,6 @@ __DOCTYPE
 									<b>SonicPulse.de</b> is the supportpage for our AMIGA share- and
 									freeware <a href="products.html">products</a>. Here you find <a href="news.html">news</a>
 									and lots of information about the programs (from screenshot to downloads).<br>
-									Additionaly I work as a freelancer. You can read about my know-how and reference
-									under <a href="services.html">services</a>.
 									<table border="0">
 										<tr>
 											<td>
@@ -56,12 +54,9 @@ __DOCTYPE
 								__SECTION_STYLE_BEG("600",<b>Technology</b>)
 									<table border="0">
 										<tr>
-											<td>
-												<a href="http://www.jedit.org" target="_new"><img src="http://www.jedit.org/made-with-jedit-6.gif" border="0" width="88" height="31" alt="jEdit.org homepage"></a>
-											</td>
 											<td><font face="Arial,Helvetica">
 												The webpages are compiled with the <a href="http://www.gnu.org/directory/GNU/gnum4.html" target="_new">GNU M4</a>.
-												macro processor. I edit the sources with my favorite editor <a href="http://www.jedit.org" target="_new">jEdit</a>.
+												macro processor.
 											</font></td>
 										</tr>
 									</table>
