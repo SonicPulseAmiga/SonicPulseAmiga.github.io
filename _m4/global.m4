@@ -119,8 +119,8 @@ m4_define(`__SECTION_LABEL',`
 
 m4_dnl -- path definitions -----------------------------------------------------
 
-m4_define(`__REMOTE_BINARIES',`http://www.sonicpulse.de/binaries')m4_dnl
-m4_define(`__REMOTE_IMAGES',`http://www.sonicpulse.de/pictures')m4_dnl
+m4_define(`__REMOTE_BINARIES',`/binaries')m4_dnl
+m4_define(`__REMOTE_IMAGES',`/pictures')m4_dnl
 
 m4_define(`__AMINET_BINARIES',`http://www.aminet.net')m4_dnl
 

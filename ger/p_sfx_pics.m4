@@ -41,7 +41,7 @@ __DOCTYPE
 									Nachfolgend können sie sich einige Screenshots von SFX anschauen, um einen Eindruck zu bekommen wie es aussieht.
 									Sie sind von den Versionen 3.34 bis zur 4.3. Klicken sie die Bilder an um grössere Versionen zu sehen.
 									<center>
-							            <table border="0" cols="3"
+							      <table border="0" cols="3"
 											<tr>
 												<td><center><a href="__REMOTE_IMAGES/sfx_01.gif" target="scrshot"><img src="__REMOTE_IMAGES/sfx_01s.gif" width="120" height="90" border="0" alt="Screenshot of SoundFX V 3.34/AmigaOS"></a><br><font size="-2">V 3.34</font></center></td>
 												<td><center><a href="__REMOTE_IMAGES/sfx_02.gif" target="scrshot"><img src="__REMOTE_IMAGES/sfx_02s.gif" width="120" height="90" border="0" alt="Screenshot of SoundFX V 3.34/AmigaOS"></a><br><font size="-2">V 3.34</font></center></td>

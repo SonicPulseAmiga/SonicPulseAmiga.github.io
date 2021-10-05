@@ -41,8 +41,7 @@ __DOCTYPE
 							      <table border="0" cols="1"
 											<tr>
 												<td>
-													noch zu tun
-													<!--center><a href="__REMOTE_IMAGES/amipannel1.jpg" target="scrshot"><img src="__REMOTE_IMAGES/amipannel2.jpg" border="0"></a><br><font size="-2">V 1.00</font></center-->
+													<center><a href="__REMOTE_IMAGES/fu-00.jpg" target="scrshot"><img src="__REMOTE_IMAGES/fu-00s.jpg" border="0"></a><br><font size="-2">V 1.66</font></center>
 												</td>
 											</tr>
 										</table>
