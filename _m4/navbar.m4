@@ -24,7 +24,7 @@ m4_define(`__NAVBAR',`
 			<table border="0" width="100%" cellspacing="0" cellpadding="0">
 			  <tr>
 				<td width="85" rowspan="3" valign="middle">
-				  <a href="http://www.sonicpulse.de"><img src="../img/sp-logo2-small.gif" width="83" height="51" border="0" alt="home"></a>
+				  <a href="/"><img src="../img/sp-logo2-small.gif" width="83" height="51" border="0" alt="home"></a>
 				</td>
 				<td height="32">&nbsp;</td>
 			  </tr>
