@@ -37,7 +37,7 @@ __DOCTYPE
 								__SECTION_STYLE_BEG("600",<b>Download</b>)
 									Here you can get the most recent version. You need one binary,
 									the data-archive and one documentation-archive.<br>
-							    It's version __VERSION_SFX from __RELDATE_SFX. Please note, that the lha-files are
+							    It is version __VERSION_SFX from __RELDATE_SFX. Please note, that the lha-files are
 									always a few days late! <br>
 							    2IDs now offer SoundFX preset support at <a href="http://www.2ids.de/soundfx/Index.htm" target="_new">www.2ids.de/soundfx/Index.htm</a>.
 							    <!-- notify
@@ -59,7 +59,7 @@ __DOCTYPE
 											<table border="0" cols="4" bgcolor="#EEF7FF" cellspacing="1" cellpadding="2">
 									            <tr bgcolor="#c7d7e0">
 													<th>&nbsp;</th>
-              										<th>LZX<br><font size="-1">Sonicpulse-Ftp</font></th>
+              										<th>LZX<br><font size="-1">Sonicpulse</font></th>
               										<th>LHA<br><font size="-1">Aminet</font></th>
               										<th>description</th>
             									</tr>

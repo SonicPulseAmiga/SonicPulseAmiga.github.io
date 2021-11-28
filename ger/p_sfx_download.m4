@@ -59,7 +59,7 @@ __DOCTYPE
 											<table border="0" cols="4" bgcolor="#EEF7FF" cellspacing="1" cellpadding="2">
 									            <tr bgcolor="#c7d7e0">
 													<th>&nbsp;</th>
-              										<th>LZX<br><font size="-1">Sonicpulse-Ftp</font></th>
+              										<th>LZX<br><font size="-1">Sonicpulse</font></th>
               										<th>LHA<br><font size="-1">Aminet</font></th>
               										<th>Beschreibung</th>
             									</tr>
